@@ -12,4 +12,4 @@ Quinto relatorio é o percentual de participação dos clientes aonde mostra a p
 Sexta e setima foi feito o cruzamento de dados foi feita entre os valores "VGV" e "VGC CBR" e o cruzamento de dados da entre a "Carteira" e "Carteira CBR",
 Mostrando participação em nivel cliente.
 
-Conseguimos realiar diversos insights com os dados que recebemos e transformando eles em informações e geração dos relatorios 
+Conseguimos realiar diversos insights com os dados que recebemos e transformando eles em informações e conseguind gerar os relatorios 
